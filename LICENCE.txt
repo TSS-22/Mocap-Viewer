@@ -1,0 +1,50 @@
+SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 TSS-22. All Rights Reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+   "Software" means the compiled executable files and associated assets distributed
+   by the copyright holder.
+
+2. GRANT OF LICENSE
+   Subject to compliance with these terms, you are granted a perpetual, worldwide,
+   non-exclusive, royalty-free license to:
+   a) Use the Software for any purpose, including personal and commercial use
+   b) Reproduce the Software
+   c) Distribute the Software to third parties
+   d) Sublicense the Software through redistribution
+
+3. SOURCE CODE
+   The source code is proprietary and not included in this license grant. This
+   license does not grant access to, rights over, or permission to reverse engineer,
+   decompile, or disassemble the source code. Any reverse engineering attempts are
+   prohibited unless explicitly required by law for interoperability purposes.
+
+4. ATTRIBUTION
+   When redistributing the Software, you must include this license and the original
+   copyright notice. You may not claim authorship of the Software.
+
+5. MODIFICATIONS
+   Modified versions must be clearly marked as different from the original
+   to avoid confusion about origin.
+
+6. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. TERMINATION
+   This license terminates automatically if you breach any term. Upon termination,
+   all rights granted cease immediately.
+
+9. ADDITIONAL OBLIGATIONS
+   This software incorporates Godot Engine. You must include Godot's copyright
+   notice and license statement in your distribution documentation as required
+   by the MIT license covering Godot. See GODOT_COPYRIGHT.txt for details.
